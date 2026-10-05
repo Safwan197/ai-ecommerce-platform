@@ -1,0 +1,8 @@
+{
+  "name": "@acp/shared",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Shared types between web and api (types only for now)",
+  "types": "index.d.ts",
+  "main": "index.d.ts"
+}
